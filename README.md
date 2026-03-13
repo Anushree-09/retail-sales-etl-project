@@ -1,5 +1,3 @@
-# retail-sales-etl-project
-End-to-end retail sales ETL pipeline with Power BI dashboard
 # Retail Sales ETL & Power BI Dashboard
 
 This project demonstrates an end-to-end data pipeline and analytics dashboard.
