@@ -1,6 +1,6 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "MacbookAir@09",
+    "password": "password",
     "database": "retail_db"
 }
