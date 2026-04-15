@@ -22,4 +22,3 @@ CSV Dataset → Python ETL → MySQL Database → Power BI Dashboard
 
 ## Dashboard
 Open the .pbix file in Power BI Desktop to explore the dashboard.
-You can also view the Live Dashboard: https://app.powerbi.com/....
