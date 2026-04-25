@@ -20,5 +20,9 @@ CSV Dataset → Python ETL → MySQL Database → Power BI Dashboard
   - Top products
   - Sales distribution by state
 
-## Dashboard
+## Dashboard Preview
+![Dashboard](dashboard_screenshots/retail_sales.png)
+
+or
+
 Open the .pbix file in Power BI Desktop to explore the dashboard.
